@@ -1,2 +1,3 @@
 # ReactProductList
-List of Products - With React
+
+List of Products app developed with React
